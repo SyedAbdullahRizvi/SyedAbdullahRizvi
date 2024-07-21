@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on projects involving ML and can work in Java and Python.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have been passionate about technology since my childhood and have been followed tech channels like MKBHD and Mrwhosetheboss.
+- My projects are currently set to private. If you are interested in viewing any of my projects, please feel free to reach out to me. I would be happy to provide access upon request.
+- You can contact me via LinkedIn (link below).
+- LinkedIn accoutn: https://www.linkedin.com/in/syed-abdullah-rizvi/
 
 <!---
 SyedAbdullahRizvi/SyedAbdullahRizvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
