@@ -27,7 +27,7 @@ Current learning: Exploring how **transformers** work and the inner workings of 
 ## Featured Projects
 🔹 **[Two-Tower Retrieval System](---)** - A **PyTorch** two-tower retrieval system on the Amazon ESCI dataset, generating query/product-embeddings and integrating ANN indexing (FAISS/Annoy) to enable fast, production-ready recommendations evaluated **(On the works!)**. 
 
-🔹 **[SurvNShot]([https://github.com/your-repo](https://github.com/SyedAbdullahRizvi/NeuroDigits))** - A deep learning model for handwritten digit recognition with **99.7%** test accuracy built using **Tensorflow**. 
+🔹 **[Handwritten Digits Classification Model]([https://github.com/your-repo](https://github.com/SyedAbdullahRizvi/NeuroDigits))** - A deep learning model for handwritten digit recognition with **99.7%** test accuracy built using **Tensorflow**. 
 
 🔹 **[SurvNShot]([https://github.com/your-repo](https://github.com/SyedAbdullahRizvi/SurvNShot))** - A fast-paced arcade game in **Java** where you dodge falling boulders, collect hearts, and shoot to survive! 
 
